@@ -1,5 +1,6 @@
 ### Hi there 👋 
 
+ ![Glittercookieuff GitHub stats](https://github-readme-stats.vercel.app/api?username=Glittercookiepuff&theme=ambient_gradient_icons=true)
  
 
 - 🔭 I’m currently working on making a simple choose your own adventure game. 
@@ -26,4 +27,19 @@ HI, Im Kassy fairly new to coding, but I do enjoy it. Im learing python.
 - I have some experince in soldering 
 - I Know the very basics to python
 
-  ![Glittercookieuff GitHub stats](https://github-readme-stats.vercel.app/api?username=Glittercookiepuff&theme=ambient_gradient_icons=true)
+##Links😄
+<p align='center'> 
+
+   <a href="https://www.linkedin.com/in/Glitterking/"> 
+
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+   </a> 
+
+   <a href="https://t.me/cookiepalace"> 
+
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+
+   </a> 
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+ 
